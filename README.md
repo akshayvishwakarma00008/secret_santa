@@ -8,7 +8,6 @@ This project assigns each employee a "secret child" following the rules:
 - `main.py`: Entry point that orchestrates reading input, creating assignments, and writing output.
 - `services/assignment_service.py`: Core logic for generating assignments.
 - `services/csv_service.py`: Handles reading/writing CSV files.
-- `tests/`: Contains `pytest`-based tests.
 
 ## Run 
 1.python main.py
